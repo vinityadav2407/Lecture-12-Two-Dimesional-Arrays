@@ -1,4 +1,4 @@
-Problem statement:-
+/*Problem statement:-
 For a given two-dimensional integer array/list of size (N x M), you need to find out which row or column has the largest sum(sum of all the elements in a row or column) amongst all the rows/columns.
 
 Note :
@@ -30,8 +30,8 @@ column 0 31
 >>>>>>
 
 Solution:->>>
-
-public class Solution {
+*/
+ class Solution {
 
 	public static void findLargest(int mat[][]) {
 		int largest = Integer.MIN_VALUE;
