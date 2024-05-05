@@ -1,4 +1,4 @@
-Problem statement:->>
+/*Problem statement:->>
 For a given two-dimensional integer array/list of size (N x M), print the array/list in a sine wave order, i.e, print the first column top to bottom, next column bottom to top and so on.
 
 Detailed explanation ( Input/output format, Notes, Images )
@@ -33,7 +33,7 @@ Sample Output 2:
 >>>>>>>>>>>>>>>>>>>
 >>>>>>>>>>>>>>>>>>
 >>>>>>>>>..
-Solution:->>>>
+Solution:->>>>*/
 public class Solution {
 
 	public static void wavePrint(int mat[][]) {
