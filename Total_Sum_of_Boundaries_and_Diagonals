@@ -1,4 +1,4 @@
-Problem statement:->>
+/*Problem statement:->>
 For a given two-dimensional square matrix of size (N x N). Find the total sum of elements on both the diagonals and at all the four boundaries.
 
 Detailed explanation ( Input/output format, Notes, Images )
@@ -44,7 +44,7 @@ Sample Output 2:
 >>>>>>>>>>
 >>>>>
 Solution:->>>.
-
+*/
 public class Solution {
 
 	public static void totalSum(int[][] mat) {
